@@ -1,0 +1,11 @@
+question_id,human_winner,confidence,notes
+1,B,high,B provides full BCTC component breakdown; A only lists 3 of 4
+2,A,medium,A is more concise and equally accurate; judge tied incorrectly
+3,B,high,B explains formula and components; A is just a one-liner
+4,B,medium,B includes effective date detail; A misses it
+5,tie,low,Both correctly cite definition; minor stylistic differences
+6,A,medium,Judge picked B due to length; A is just as accurate and more concise
+7,A,high,B is verbose; A is sufficient for the question scope
+8,B,high,B lists all 11 rights; A only enumerates first 4
+9,A,medium,Judge tied but A has better factual coverage of inventory
+10,B,medium,B has better structure for short/long-term debt distinction
